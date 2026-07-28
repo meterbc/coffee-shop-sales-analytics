@@ -1,4 +1,4 @@
-# ☕ Starbucks Sales Analytics Dashboard
+# ☕ Coffee Shop Sales Analytics Dashboard
 
 > An end-to-end Business Intelligence project built using **SQL Server, Python, and Power BI** to analyze over **298,000 coffee shop sales transactions**.
 
