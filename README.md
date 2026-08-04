@@ -4,8 +4,6 @@
 
 ![Dashboard Preview](images/Dashboard.png)
 
----
-
 ## 📖 Project Overview
 
 This project focuses on analyzing coffee shop sales data to uncover valuable business insights and support data-driven decision-making.
@@ -17,8 +15,6 @@ The complete analytics pipeline includes:
 - SQL-based business analysis
 - Interactive dashboard development with Power BI
 
----
-
 ## 🎯 Business Objectives
 
 - Analyze overall sales performance
@@ -27,8 +23,6 @@ The complete analytics pipeline includes:
 - Analyze hourly and weekly sales patterns
 - Evaluate product category performance
 - Build an executive dashboard for decision-makers
-
----
 
 ## 🛠️ Tech Stack
 
@@ -40,8 +34,6 @@ The complete analytics pipeline includes:
 | Power BI | Data Visualization |
 | DAX | KPI Calculations |
 | GitHub | Version Control |
-
----
 
 ## 📊 Dashboard Features
 
@@ -57,8 +49,6 @@ The dashboard includes:
 - 🥐 Revenue by Category
 - 🕒 Orders by Hour
 - 🎛️ Interactive Filters (Store, Category, Month)
-
----
 
 ## 🧮 SQL Analysis
 
@@ -76,8 +66,6 @@ The project contains **20 SQL queries** covering:
 - Moving Average
 - Revenue Share
 
----
-
 ## 📈 Key Business Insights
 
 - Hell's Kitchen generated the highest total revenue.
@@ -85,8 +73,6 @@ The project contains **20 SQL queries** covering:
 - Peak sales occurred between **8:00 AM and 10:00 AM**.
 - Coffee products contributed the largest share of total revenue.
 - Monday generated the highest revenue among weekdays.
-
----
 
 ## 📚 What I Learned
 
@@ -98,19 +84,6 @@ Throughout this project, I gained hands-on experience with:
 - Creating KPI measures using DAX
 - Transforming raw data into actionable business insights
 
----
-
 ## 👨‍💻 Author
 
 **Mete Arabacı**
-
-Industrial Engineering Student
-
-Interested in:
-
-- Data Analytics
-- Business Intelligence
-- SQL
-- Power BI
-- Process Improvement
-- Data Visualization
